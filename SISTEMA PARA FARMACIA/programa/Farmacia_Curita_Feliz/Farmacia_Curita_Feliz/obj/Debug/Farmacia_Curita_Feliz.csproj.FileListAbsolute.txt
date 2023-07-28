@@ -1,0 +1,13 @@
+C:\Users\Renato\Desktop\proyecto farmacia\programa\Farmacia_Curita_Feliz\Farmacia_Curita_Feliz\bin\Debug\Farmacia_Curita_Feliz.exe.config
+C:\Users\Renato\Desktop\proyecto farmacia\programa\Farmacia_Curita_Feliz\Farmacia_Curita_Feliz\bin\Debug\Farmacia_Curita_Feliz.exe
+C:\Users\Renato\Desktop\proyecto farmacia\programa\Farmacia_Curita_Feliz\Farmacia_Curita_Feliz\bin\Debug\Farmacia_Curita_Feliz.pdb
+C:\Users\Renato\Desktop\proyecto farmacia\programa\Farmacia_Curita_Feliz\Farmacia_Curita_Feliz\obj\Debug\Farmacia_Curita_Feliz.csproj.AssemblyReference.cache
+C:\Users\Renato\Desktop\proyecto farmacia\programa\Farmacia_Curita_Feliz\Farmacia_Curita_Feliz\obj\Debug\Farmacia_Curita_Feliz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renato\Desktop\proyecto farmacia\programa\Farmacia_Curita_Feliz\Farmacia_Curita_Feliz\obj\Debug\Farmacia_Curita_Feliz.Form1.resources
+C:\Users\Renato\Desktop\proyecto farmacia\programa\Farmacia_Curita_Feliz\Farmacia_Curita_Feliz\obj\Debug\Farmacia_Curita_Feliz.Properties.Resources.resources
+C:\Users\Renato\Desktop\proyecto farmacia\programa\Farmacia_Curita_Feliz\Farmacia_Curita_Feliz\obj\Debug\Farmacia_Curita_Feliz.csproj.GenerateResource.cache
+C:\Users\Renato\Desktop\proyecto farmacia\programa\Farmacia_Curita_Feliz\Farmacia_Curita_Feliz\obj\Debug\Farmacia_Curita_Feliz.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Desktop\proyecto farmacia\programa\Farmacia_Curita_Feliz\Farmacia_Curita_Feliz\obj\Debug\Farmacia_Curita_Feliz.exe
+C:\Users\Renato\Desktop\proyecto farmacia\programa\Farmacia_Curita_Feliz\Farmacia_Curita_Feliz\obj\Debug\Farmacia_Curita_Feliz.pdb
+C:\Users\Renato\Desktop\proyecto farmacia\programa\Farmacia_Curita_Feliz\Farmacia_Curita_Feliz\obj\Debug\Farmacia_Curita_Feliz.Adm.resources
+C:\Users\Renato\Desktop\proyecto farmacia\programa\Farmacia_Curita_Feliz\Farmacia_Curita_Feliz\obj\Debug\Farmacia_Curita_Feliz.Cajas.resources
